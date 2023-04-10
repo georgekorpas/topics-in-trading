@@ -7,3 +7,8 @@ topics-in-trading is a repository with basic concepts and tools commonly used in
 3. Volatility surfaces
 4. SABR model
 5. ...
+
+
+## 4. SABR model
+
+On the calibration of the model parameters: [https://www.mathworks.com/help/fininst/calibrating-the-sabr-model.html](https://www.mathworks.com/help/fininst/calibrating-the-sabr-model.html) 
