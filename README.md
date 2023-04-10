@@ -8,7 +8,9 @@ topics-in-trading is a repository with basic concepts and tools commonly used in
 4. SABR model
 5. ...
 
-
+## 1. Ito's Lemma
+## 2. Black-Scholes models
+## 3. Volatility surfaces
 ## 4. SABR model
 
 On the calibration of the model parameters using MATLAB: [https://www.mathworks.com/help/fininst/calibrating-the-sabr-model.html](https://www.mathworks.com/help/fininst/calibrating-the-sabr-model.html) 
